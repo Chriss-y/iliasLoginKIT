@@ -58,7 +58,7 @@ function clickListElement(listId, elementNumber) {
 
 function onUsernamePopulated(thenFunction) {
   console.log(thenFunction)
-  if(document.getElementById('name').value == '') {
+  if(document.getElementById('username').value == '') {
     window.setTimeout(onUsernamePopulated.bind(null, thenFunction), 100); /* this checks the flag every 100 milliseconds*/
   } else {
     thenFunction()
