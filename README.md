@@ -11,3 +11,5 @@ You need to have your password saved by the firefox password manager.
 (Also applies here!)
 
 ## Fork of [philippweinmann/iliasLogin](https://github.com/philippweinmann/iliasLogin) (KIT)
+
+- There is also an [Uni Freiburg](https://github.com/Chriss-y/iliasLoginUFR) version.
